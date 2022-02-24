@@ -6,4 +6,8 @@ In this game i try to design a game that does not tell the player exactly how to
 To warning player from dangers zoon and find him way to goal.I use sounds, lights, and 3d Modeling.
 
 this is screenshout of scene 
-![Screen Shot 2022-02-23 at 7 34 54 PM](https://user-images.githubusercontent.com/87305604/155441028-fb103d5a-ed02-444b-a81b-b699543a3c73.png)
+
+
+![Screen Shot 2022-02-23 at 7 34 54 PM](https://user-images.githubusercontent.com/87305604/155441935-f84a5b8c-6ef1-456e-a029-a9d8e2077034.png)
+
+<img> src="https://user-images.githubusercontent.com/87305604/155441935-f84a5b8c-6ef1-456e-a029-a9d8e2077034.png" width="200" height="400" />
