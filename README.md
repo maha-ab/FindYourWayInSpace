@@ -10,4 +10,4 @@ this is screenshout of scene
 
 ![Screen Shot 2022-02-23 at 7 34 54 PM](https://user-images.githubusercontent.com/87305604/155441935-f84a5b8c-6ef1-456e-a029-a9d8e2077034.png)
 
-<img> src="https://user-images.githubusercontent.com/87305604/155441935-f84a5b8c-6ef1-456e-a029-a9d8e2077034.png" width="200" height="400" />
+<img> src="https://user-images.githubusercontent.com/87305604/155441935-f84a5b8c-6ef1-456e-a029-a9d8e2077034.png"  width="200" height="400" />
