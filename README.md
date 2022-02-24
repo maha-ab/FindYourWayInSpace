@@ -5,11 +5,12 @@ In this game i try to design a game that does not tell the player exactly how to
 
 To warning player from dangers zoon and find him way to goal.I use sounds, lights, and 3d Modeling.
 
+
 This is game demo  [Find Your Way In Space](https://maha-sh.itch.io/findyourwayinspace).
 
 Game scene screenshout.
 
-<img src="https://user-images.githubusercontent.com/87305604/155486432-efa93055-3e7f-4919-9c97-2b7f5fda17bf.png" width="514" height="283">
+<img src="https://user-images.githubusercontent.com/87305604/155496330-f939ddf1-01c4-4413-a533-ceacfba87435.png" width="547.5" height="253.5">
 
 First,I designed a particle system to look like caterpillars guiding you to the right path in the game
 
